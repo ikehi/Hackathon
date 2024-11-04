@@ -25,6 +25,9 @@ const routes = [
   {
     href: "/categories",
     label: "Categories",
+  },{
+    href: "/Artificial Inteligence",
+    label: "Artificial Inteligence",
   },
 ];
 
